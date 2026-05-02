@@ -14,7 +14,7 @@ I focus on building:
 - Insightful data-driven analysis  
 - Clean and professional project outputs  
 
-I enjoy working on problems that involve **logic, patterns, and real-world applications**, especially in areas like **data analytics, business intelligence, and cybersecurity fundamentals**.
+I enjoy working on problems that involve **logic, patterns, and real-world applications**, especially in areas like **data analytics, business intelligence, and explore AI tools**.
 
 ---
 
@@ -34,37 +34,26 @@ I enjoy working on problems that involve **logic, patterns, and real-world appli
 - Data Analysis  
 - Data Visualization (Tableau / Power BI - Learning)  
 - Exploratory Data Analysis (EDA)
+- Data Analysis Expressions (DAX)
 
 ### 💻 Programming
-- Python (Basics / Learning)  
-- SQL (Learning)  
-- C / C++ (Academic Level)
+- Core Python
+- Python Libraries  
+- SQL  
+- C / C++
+- HTML / CSS / JS
 
-### 🔐 Core Concepts
-- Cryptography Fundamentals  
-- Network Security Basics  
-- Logical & Quantitative Reasoning  
-
----
-
-## 📁 Featured Projects
-
-### 🔹 Zomato Data Analysis
-- Performed data cleaning and analysis on restaurant datasets  
-- Identified trends in ratings, locations, and user preferences  
-- Built visual insights for better understanding of market patterns  
-
-### 🔹 Academic Research & Presentations
-- Developed structured presentations on technical and societal topics  
-- Focused on clarity, logical flow, and impactful delivery  
+### 🔐 Core Concepts    
+- Logical & Quantitative Reasoning
+- Machine Learning
+- Predictive Analysis
 
 ---
 
 ## 📈 What I'm Currently Working On
 
 - Improving **data analysis skills using Python & SQL**  
-- Building **real-world data projects**  
-- Strengthening fundamentals in **cybersecurity and system design**  
+- Building **real-world data projects**   
 
 ---
 
