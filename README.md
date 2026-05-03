@@ -1,6 +1,6 @@
 # Hii, I'm Shubh 👋
 
-🎯 Analytical Engineering Student | Data & Technology Enthusiast  
+🎯 Growth-Driven Analytical Engineering | Data & Technology Enthusiast  
 📍 Gujarat, India  
 
 ---
